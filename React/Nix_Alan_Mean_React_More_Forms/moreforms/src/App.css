@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+label{
+  margin-right: 5%;
+}
+
+
+.input-box{
+  background-color: lightgray;
+  width: 30%;
+  margin: .5% auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1%;
+}
